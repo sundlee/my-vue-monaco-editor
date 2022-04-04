@@ -1,4 +1,4 @@
-# vue-monaco-editor
+# my-vue-monaco-editor2
 
 ## Project setup
 ```
